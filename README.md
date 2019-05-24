@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-Curso de Node en Udemy
+# Curso de Node.js en udemy
 
 ## Comenzando 🚀
 
